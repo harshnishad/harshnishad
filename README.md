@@ -12,6 +12,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshnishad&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
+
+[![](https://visitcount.itsvg.in/api?id=harshnishad&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harshnishad&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
