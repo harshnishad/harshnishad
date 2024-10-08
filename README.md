@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshnishad)
 [![Portfolio](https://img.shields.io/badge/Portfolio-007ACC?style=flat&logo=portfolio&logoColor=white)](https://harshnishad.me)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/harshnishad)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/harshnishad)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/user9549H)
 [![Coding Portfolio](https://img.shields.io/badge/CodingPortfolio-4B8BBE?style=flat&logo=coding&logoColor=white)](https://codolio.com/profile/mRYNrXT4)
     
 # 🖥️ Technical Skills
